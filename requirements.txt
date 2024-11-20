@@ -1,6 +1,4 @@
 numpy
 Pillow
-streamlit
-streamlit_drawable_canva
 opencv-python-headless
 opencv-contrib-python
